@@ -1,0 +1,5 @@
+.inp::after{
+    display: flex;
+    align-items: center;
+    background-color: red !important;
+}
